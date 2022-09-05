@@ -5,7 +5,7 @@
 
 // ----- Exercise - capitalize( str ) -----
 
-const name = "lAsSe";
+const name = "lAsSeEEEE";
 
 capitalize(name);
 
